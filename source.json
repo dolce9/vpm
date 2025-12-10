@@ -12,7 +12,12 @@
         "text":"GitHub で見る"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "dolce9/DolceTools"
+    "packages":[
+        {
+            "name":"com.github.dolce9.dolcetools",
+            "releases":[
+                "https://github.com/dolce9/DolceTools/releases/download/0.1.0/DolceTools-0.1.0.zip"
+            ]
+        }
     ]
 }
