@@ -4,13 +4,13 @@
     "url":"https://dolce9.github.io/vpm/index.json",
     "author":{
         "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"dolce9",
+        "url":"https://github.com/dolce9"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"どるちぇの VRChat packages リスト",
     "infoLink":{
-        "url":"https://github.com/dolce9/DolceTools",
-        "text":"View on GitHub"
+        "url":"https://github.com/dolce9/vpm",
+        "text":"GitHub で見る"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
