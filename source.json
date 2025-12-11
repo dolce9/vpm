@@ -1,12 +1,12 @@
 {
-    "name":"Dolce",
+    "name":"Dolce’s VPM Repository",
     "id":"com.github.dolce9.vpm",
     "url":"https://dolce9.github.io/vpm/index.json",
     "author":{
         "name":"dolce9",
         "url":"https://github.com/dolce9"
     },
-    "description":"どるちぇの VRChat packages リスト",
+    "description":"どるちぇの VRChat 向け packages リスト",
     "infoLink":{
         "url":"https://github.com/dolce9/vpm",
         "text":"GitHub で見る"
